@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  background-color: aquamarine;
+  align-items: center;
+  gap: 3rem;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+
+.nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.logo {
+  align-items: center;
+  display: flex;
+}
+
+.hero {
+  display: grid;
+}
+
+.text {
+  padding: 0 20px;
+  grid-column: 1/-1;
+  grid-row: 1;
+  align-self: center;
+}
+
+.about {
+  display: flex;
+  padding: 0 20px;
+  background-color: yellowgreen;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.img-container {
+  grid-column: 1/-1;
+  grid-row: 1;
+  display: flex;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.payoff {
+  display: flex;
+  max-width: 400px;
+
+  align-items: center;
+}
