@@ -13,8 +13,30 @@ Benvenuti in questa repository! Questo spazio è dedicato al codice utilizzato d
    - Descrizioni dettagliate degli esercizi.
    - File di esempio o di partenza per aiutarvi a iniziare.
 
-## Struttura del Progetto
+## Come Usare Questa Repository
 
-La struttura della repository è la seguente:
-/Lezioni /Lezione1 - esempio1.cs - esercizio1.cs /Lezione2 - esempio2.cs - esercizio2.cs /Compiti /Compito1 - descrizione.md - starter.cs /Compito2 - descrizione.md - starter.cs README.md
+Per accedere al codice e ai materiali, segui questi semplici passaggi:
+
+### 1. Scaricare il Codice
+
+Hai due opzioni per scaricare i file della repository:
+
+#### Opzione 1: Scaricare un file ZIP
+
+1. Clicca sul pulsante verde **Code** nella parte superiore della pagina.
+2. Seleziona **Download ZIP** dal menu a tendina.
+3. Una volta scaricato, estrai il file ZIP in una cartella sul tuo computer.
+
+![Cliccare sul pulsante evidenziato per fare apparire il menu a tendina](img/readme/download.png)
+
+#### Opzione 2: Clonare la repository con Git
+
+Se preferisci usare Git (consigliato per chi ha familiarità con il terminale), puoi clonare la repository sul tuo computer. Ecco come fare:
+
+1. Copia l'URL della repository cliccando su **Code** e poi sul pulsante accanto all'URL.
+2. Apri il terminale (o il prompt dei comandi) sul tuo computer.
+3. Esegui il seguente comando per clonare la repository nella tua macchina locale:
+   ```bash
+   git clone <URL-della-repository>
+Sostituisci <URL-della-repository> con l'indirizzo della repository (esempio: https://github.com/username/nome-repository.git).
 
