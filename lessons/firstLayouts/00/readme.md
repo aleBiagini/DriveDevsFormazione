@@ -50,7 +50,7 @@ Date la vostra interpretazione dei blocchi esistenti, modificandoli e realizzand
 2. **Sezione "Contatti"**
    - Un layout con due colonne:
      - Una colonna per una mappa o immagine.
-     - Un'altra colonna con un form di contatto.
+     - Un'altra colonna con un form di contatto. (https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 3. **Footer**
    - Una riga con 3 o 4 colonne:
